@@ -1,4 +1,4 @@
-Project made in Rocketseat's [Ignite Lab React](https://lp.rocketseat.com.br/inscricao/ignite-lab).
+Project made in Rocketseat Ignite Lab React.
 The goal was to build a design system from Figma to React.
 
 ## ⚒️ Built With
