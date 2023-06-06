@@ -3,7 +3,7 @@ The goal was to build a design system from Figma to React.
 
 ## ⚒️ Built With
 <p align="center">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma"> &nbsp
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"> &nbsp
     <img height="40" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="radix"> &nbsp
